@@ -6,9 +6,9 @@ const login = require("chatbox-fca-remake"); // you can change fca, only availab
 
 const system = require("./SYSTEM/second-system#1/index.js");
 
-const verSystem = require("./SYSTEM/tokito-system/index.js");
+const verSystem = require("./SYSTEM/ver-system/index.js");
 
-const vraxSystem = require("./SYSTEM/cid-kagenou-system/index.js");
+const vraxSystem = require("./SYSTEM/vrax-system/index.js");
 
 
 const apiHandler = require("./utils/apiHandler");
